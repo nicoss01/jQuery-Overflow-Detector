@@ -14,6 +14,7 @@ $(function() {
     $("#editor").overflow(function(overflowContent){
       console.log(overflowContent);
     });
+});
 ````
 ### Version History
 
